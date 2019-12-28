@@ -1,0 +1,21 @@
+.btn-info{
+    float:right;
+    border-radius: 5px;
+}
+.container{
+    margin-top: 100px;
+}
+.table{
+    text-align: center;
+}
+.btn-danger{
+    width: 50px;
+    border-radius: 5px;
+}
+.btn-primary{
+    width: 50px;
+    border-radius: 5px;
+}
+thead{
+    text-align:center;
+}

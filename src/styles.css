@@ -1,0 +1,423 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* padding classes from 1 to 20 px */
+.p1{
+    padding: 1px ;
+}
+.p2{
+    padding: 2px ;
+}
+.p3{
+    padding: 3px ;
+}
+.p4{
+    padding: 4px ;
+}
+.p5{
+    padding: 5px ;
+}
+.p6{
+    padding: 6px ;
+}
+.p7{
+    padding: 7px ;
+}
+.p8{
+    padding: 8px ;
+}
+.p9{
+    padding: 9px ;
+}
+.p10{
+    padding: 10px ;
+}
+.p11{
+    padding: 11px ;
+}
+.p12{
+    padding: 12px ;
+}
+.p13{
+    padding: 13px ;
+}
+.p14{
+    padding: 14px ;
+}
+.p15{
+    padding: 15px ;
+}
+.p16{
+    padding: 16px ;
+}
+.p17{
+    padding: 17px ;
+}
+.p18{
+    padding: 18px ;
+}
+.p19{
+    padding: 19px ;
+}
+.p20{
+    padding: 20px ;
+}
+
+
+/* padding classes from 1 to 20 px for top and bottom only */
+.ptb1{
+    padding: 1px  0px ;
+}
+.ptb2{
+    padding: 2px  0px ;
+}
+.ptb3{
+    padding: 3px  0px ;
+}
+.ptb4{
+    padding: 4px  0px ;
+}
+.ptb5{
+    padding: 5px  0px ;
+}
+.ptb6{
+    padding: 6px  0px ;
+}
+.ptb7{
+    padding: 7px  0px ;
+}
+.ptb8{
+    padding: 8px  0px ;
+}
+.ptb9{
+    padding: 9px  0px ;
+}
+.ptb10{
+    padding: 10px  0px ;
+}
+.ptb11{
+    padding: 11px  0px ;
+}
+.ptb12{
+    padding: 12px  0px ;
+}
+.ptb13{
+    padding: 13px  0px ;
+}
+.ptb14{
+    padding: 14px  0px ;
+}
+.ptb15{
+    padding: 15px  0px ;
+}
+.ptb16{
+    padding: 16px  0px ;
+}
+.ptb17{
+    padding: 17px  0px ;
+}
+.ptb18{
+    padding: 18px  0px ;
+}
+.ptb19{
+    padding: 19px  0px ;
+} 
+.ptb20{
+    padding: 20px  0px ;
+}
+
+/* padding classes from 1 to 20 px for left and right only */
+
+.plr1{
+    padding: 0px  1px ;
+}
+.plr2{
+    padding:0px 2px ;
+}
+.plr3{
+    padding:0px 3px   ;
+}
+.plr4{
+    padding:0px  4px   ;
+}
+.plr5{
+    padding:0px 5px ;
+}
+.plr6{
+    padding:0px 6px  ;
+}
+.plr7{
+    padding:0px 7px ;
+}
+.plr8{
+    padding: 0px  8px ;
+}
+.plr9{
+    padding:  0px  9px;
+}
+.plr10{
+    padding: 0px 10px  ;
+}
+.plr11{
+    padding: 0px 11px  ;
+}
+.plr12{
+    padding: 0px  12px ;
+}
+.plr13{
+    padding:  0px  13px;
+}
+.plr14{
+    padding:  0px  14px;
+}
+.plr15{
+    padding: 0px  15px ;
+}
+.plr16{
+    padding:  0px 16px ;
+}
+.plr17{
+    padding: 0px  17px ;
+}
+.plr18{
+    padding:  0px  18px;
+}
+.plr19{
+    padding:  0px  19px;
+} 
+.plr20{
+    padding: 0px  20px ;
+}
+
+
+/* padding classes from 1 to 20 px for TOP only */
+
+.pt1{
+    padding: 1px  0px  0px 0px;
+}
+.pt2{
+    padding: 2px  0px 0px 0px;
+}
+.pt3{
+    padding: 3px  0px 0px 0px;
+}
+.pt4{
+    padding: 4px  0px 0px 0px;
+}
+.pt5{
+    padding: 5px  0px 0px 0px;
+}
+.pt6{
+    padding: 6px  0px 0px 0px;
+}
+.pt7{
+    padding: 7px  0px 0px 0px;
+}
+.pt8{
+    padding: 8px  0px 0px 0px;
+}
+.pt9{
+    padding: 9px  0px 0px 0px;
+}
+.pt10{
+    padding: 10px  0px 0px 0px;
+}
+.pt11{
+    padding: 11px  0px 0px 0px;
+}
+.pt12{
+    padding: 12px  0px 0px 0px;
+}
+.pt13{
+    padding: 13px  0px 0px 0px;
+}
+.pt14{
+    padding: 14px  0px 0px 0px;
+}
+.pt15{
+    padding: 15px  0px 0px 0px;
+}
+.pt16{
+    padding: 16px  0px 0px 0px;
+}
+.pt17{
+    padding: 17px  0px 0px 0px;
+}
+.pt18{
+    padding: 18px  0px 0px 0px;
+}
+.pt19{
+    padding: 19px  0px 0px 0px;
+} 
+.pt20{
+    padding: 20px  0px 0px 0px;
+}
+
+/* padding classes from 1 to 20 px for BOTTOM only */
+
+.pb1{
+    padding: 0px  1px  0px 0px;
+}
+.pb2{
+    padding:  0px  2px 0px 0px;
+}
+.pb3{
+    padding:  0px 3px 0px 0px;
+}
+.pb4{
+    padding: 0px  4px 0px 0px;
+}
+.pb5{
+    padding:  0px  5px 0px 0px;
+}
+.pb6{
+    padding: 0px  6px 0px 0px;
+}
+.pb7{
+    padding:  0px 7px 0px 0px;
+}
+.pb8{
+    padding:  0px  8px 0px 0px;
+}
+.pb9{
+    padding: 0px 9px  0px 0px;
+}
+.pb10{
+    padding: 0px 10px  0px 0px;
+}
+.pb11{
+    padding:  0px 11px 0px 0px;
+}
+.pb12{
+    padding: 0px 12px  0px 0px;
+}
+.pb13{
+    padding:  0px 13px 0px 0px;
+}
+.pb14{
+    padding:0px  14px  0px 0px;
+}
+.pb15{
+    padding: 0px  15px 0px 0px;
+}
+.pt16{
+    padding:  0px 16px 0px 0px;
+}
+.pb17{
+    padding: 0px 17px  0px 0px;
+}
+.pb18{
+    padding:  0px  18px 0px 0px;
+}
+.pb19{
+    padding: 0px 19px  0px 0px;
+} 
+.pb20{
+    padding: 0px  20px 0px 0px;
+}
+
+
+
+/* margin for all sides */
+
+.m5{
+    margin: 5px;
+}
+.m10{
+    margin: 10px;
+}
+.m15{
+    margin: 15px;
+}
+.m20{
+    margin: 20px;
+}
+.m25{
+    margin: 25px;
+}
+.m30{
+    margin: 30px;
+}
+
+/* margin for top and bottom  */
+
+.mtb5{
+    margin: 5px 0px;
+}
+.mtb10{
+    margin: 10px 0px;
+}
+.mtb15{
+    margin: 15px 0px;
+}
+.mtb20{
+    margin: 20px 0px;
+}
+.mtb25{
+    margin: 25px 0px;
+}
+.mtb30{
+    margin: 30px 0px;
+}
+
+/* margin for left and right sides */
+
+.mlr5{
+    margin:0px 5px;
+}
+.mlr10{
+    margin:0px 10px;
+}
+.mlr15{
+    margin:0px 15px;
+}
+.mlr20{
+    margin:0px 20px;
+}
+.mlr25{
+    margin:0px 25px;
+}
+.mlr30{
+    margin:0px 30px;
+}
+
+/* margin for top only */
+
+.mlr5{
+    margin:5px 0px 0px 0px;
+}
+.mlr10{
+    margin:10px 0px 0px 0px;
+}
+.mlr15{
+    margin:15px 0px 0px 0px;
+}
+.mlr20{
+    margin:20px 0px 0px 0px;
+}
+.mlr25{
+    margin:25px 0px 0px 0px;
+}
+.mlr30{
+    margin:30px 0px 0px 0px;
+}
+
+/* margin for left only */
+
+.mlr5{
+    margin:0px  5px 0px 0px;
+}
+.mlr10{
+    margin:0px  10px 0px 0px;
+}
+.mlr15{
+    margin:0px 15px 0px 0px;
+}
+.mlr20{
+    margin:0px 20px 0px 0px;
+}
+.mlr25{
+    margin:0px 25px 0px 0px;
+}
+.mlr30{
+    margin:0px 30px 0px 0px;
+}

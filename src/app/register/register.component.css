@@ -1,0 +1,55 @@
+.form-container{
+  margin-right: 150px;
+  margin-left: 150px;
+  color: white;
+  -webkit-box-shadow: inset -1px 4px 26px 11px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset -1px 4px 26px 11px rgba(0,0,0,0.75);
+  box-shadow:  -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.container-fluid{
+  background-image: url("../../assets/51264.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 657px;
+}
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 0.5px solid rgb(196, 193, 193);
+    background: whitesmoke;
+    border-radius: 4px;
+  }
+  .btn-success{
+    margin-left: 15px;
+    height: 40px;
+  }
+  h1{
+    text-align: center;
+  }
+  .form-group{
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.alert-danger {
+  color: #a94442;
+  background-color: #f2dede;
+}
+.alert {
+  margin-top:-15px;
+  padding: 5px;
+  margin-bottom:0px;
+  border-radius:5px;
+}
+.p-3{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.form-control{
+  height: 40px;
+}

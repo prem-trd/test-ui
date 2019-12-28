@@ -1,0 +1,12 @@
+.btn-success{
+    border-radius: 10px;
+    width:80px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+}
+.p-2{
+    margin-top: 100px;
+}

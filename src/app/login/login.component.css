@@ -1,0 +1,26 @@
+.container-fluid{
+    background-image: url("../../assets/images.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 657px;
+}
+.form-container{
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 210px;
+    color: white;
+    -webkit-box-shadow: inset -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset -1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow:  -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.btn-success{
+    float:right;
+}
+.form-group{
+    margin-left: 15px;
+    margin-right: 10px;
+}
+h2{
+    text-align: center;
+    padding-top: 10px;
+}
